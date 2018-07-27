@@ -33,7 +33,7 @@ $ npm install consecutively-unique-array
 
 ```js
 const cUa = require('consecutively-unique-array');
-const arr = cU([1, 2, 3, 4, 5, 6, 7]);
+const val = cU([1, 2, 3, 4, 5, 6, 7]);
 
 console.log(val(), val(), val(), val());
 //=> 2 7 3 1
