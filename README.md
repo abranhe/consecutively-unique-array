@@ -22,7 +22,7 @@
 $ npm install consecutively-unique-array
 ```
 
-# Why Permutated?
+# Why?
 
 - Why not 😂
 - Clean and focused
